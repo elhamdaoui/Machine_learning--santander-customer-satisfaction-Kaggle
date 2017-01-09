@@ -1,0 +1,15 @@
+BAGC : 70 classifiers with score between 0.701518160543 and 0.829020339669
+
+DTC : 102 classifiers with score between 0.600028571728 and 0.683685140216
+
+LR : 104 classifiers with score between 0.630339348403 and 0.765794300567
+
+ETC : 344 classifiers with score between 0.643762773339 and 0.811952575075
+
+GBC : 122 classifiers with score between 0.698018696222 and 0.830866001323
+
+KNN : 52 classifiers with score between 0.650577964298 and 0.79306182307
+
+RFC : 241 classifiers with score between 0.634424418678 and 0.795165077217
+
+Total: 1035 classifiers with score between 0.600028571728 and 0.830866001323
